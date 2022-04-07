@@ -1,1 +1,1 @@
-# lcnse
+{ app = true }
